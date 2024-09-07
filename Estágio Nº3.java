@@ -5,6 +5,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+//Jason (ainda não sei usar)
 [
     {"dia": 1, "faturamento": 1000.0},
     {"dia": 2, "faturamento": 0.0},     
